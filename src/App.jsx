@@ -1,5 +1,6 @@
 import React from 'react';
-import Post from './components/Post';
+import Post from './Post';
+
 
 
 function App(){ 
